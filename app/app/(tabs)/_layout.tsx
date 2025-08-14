@@ -41,6 +41,7 @@ export default function TabLayout() {
         }}
       />
       <Tabs.Screen name='signup' options={{title:"Signup"}}/>
+      <Tabs.Screen name='home' options={{title:"home"}}/>
     </Tabs>
   );
 }
